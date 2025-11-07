@@ -12,8 +12,10 @@ Currently exploring AI-based automation and context-aware task management system
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks:** Django, Flask, FastAPI  
 - **Frontend:** React, Tailwind CSS, HTML, CSS  
-- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Cassandrs  
-- **Tools:** Git, Docker, Postman, VS Code  
+- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Cassandra, Kairos DB
+- **Tools:** Git, Docker, Postman, VS Code
+- **Business analytics tool:** Basics of Power BI Data Visualization
+- **Services:** Azure DevOps, Azure Virtual Machines.
 
 ---
 
@@ -28,12 +30,12 @@ AI-driven task management system with smart prioritization and context-based sug
 ---
 
 ### 📊 GitHub Stats
-![Arpitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitha-ng&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitha-ng&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitha-ng&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=arpitha-ng&theme=dracula)
+![Arpitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitha4&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitha4&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arpitha4&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Arpitha4&theme=dracula)
 
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn]([https://linkedin.com/in/arpitha-ng](https://www.linkedin.com/in/arpitha-n-g/)) | [Email](mailto:arpithabhatng01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arpitha-n-g/) | [Email](mailto:arpithabhatng01@gmail.com)
