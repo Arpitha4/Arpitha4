@@ -30,10 +30,12 @@ AI-driven task management system with smart prioritization and context-based sug
 ---
 
 ### 📊 GitHub Stats
-![Arpitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitha4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitha4&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arpitha4&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Arpitha4&theme=dracula)
+![Metrics](https://metrics.lecoq.io/Arpitha4?template=classic&isocalendar=1&languages=1&stars=1&followup=1&introduction=1&theme=radical)
+![snake gif](https://github.com/Arpitha4/Arpitha4/blob/output/github-contribution-grid-snake.svg)
+![Arpitha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arpitha4&theme=radical)
+
 
 ---
 
