@@ -31,7 +31,7 @@ AI-driven task management system with smart prioritization and context-based sug
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitha4&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitha4&layout=compact&theme=radical)                                                                                                                                                                                                         
 ![Profile Views](https://komarev.com/ghpvc/?username=Arpitha4&label=Profile%20views&color=0e75b6&style=flat)
 
 
