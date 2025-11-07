@@ -1,6 +1,7 @@
-# 👋 Hi there, I'm Arpitha N G
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Backend%20Developer%20|%20Python%20Developer%20|%20Software%20Engineer%20|%20AI%20Enthusiast&fontSize=22&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
-💻 **Python Backend Developer | Django | Flask | REST APIs | AI Integrations**
+
+# 👋 Hi there, I'm Arpitha N G
 
 I’m passionate about building smart and scalable backend systems using Python and modern web technologies.  
 Currently exploring AI-based automation and context-aware task management systems.
@@ -31,10 +32,6 @@ AI-driven task management system with smart prioritization and context-based sug
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitha4&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Arpitha4&theme=dracula)
-![Metrics](https://metrics.lecoq.io/Arpitha4?template=classic&isocalendar=1&languages=1&stars=1&followup=1&introduction=1&theme=radical)
-![snake gif](https://github.com/Arpitha4/Arpitha4/blob/output/github-contribution-grid-snake.svg)
-![Arpitha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arpitha4&theme=radical)
 
 
 ---
